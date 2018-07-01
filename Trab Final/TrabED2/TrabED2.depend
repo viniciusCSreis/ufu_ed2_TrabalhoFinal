@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1523767447 source:c:\users\vinic\google drive\ufu\3 periodo\ed2\trab final\trabed2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list-definitions.h"
+	"list.h"
+
+1523766253 c:\users\vinic\google drive\ufu\3 periodo\ed2\trab final\trabed2\list-definitions.h
+
+1523766430 c:\users\vinic\google drive\ufu\3 periodo\ed2\trab final\trabed2\list.h
+
+1530240379 source:c:\users\vinic\google drive\ufu\3 periodo\ed2\trab final\trabed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"list-definitions.h"
+	"list.h"
+
